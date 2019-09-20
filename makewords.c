@@ -1,5 +1,4 @@
 #include <unistd.h>
-#include <ctype.h>
 
 char my_char[1];
 int main() {
